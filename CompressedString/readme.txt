@@ -1,0 +1,1 @@
+The program encrypts the string following the pattern from vvvlladymmyyyyyrr to 3v2l1a1d1y2m5y2r.

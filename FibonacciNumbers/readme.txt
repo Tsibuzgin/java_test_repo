@@ -1,0 +1,1 @@
+The program displays any number of numbers from the Fibonacci series.
